@@ -1,0 +1,80 @@
+<html> 
+
+<head> 
+	<meta charset="utf-8">
+	<title>СпецТех</title> 
+
+	<link rel="shortcut icon" href="images/favicon.ico">	
+
+	<link rel="stylesheet" href="styles/ddmenu.css">
+	<link rel="stylesheet" href="styles/map.css">
+	<link rel="stylesheet" href="styles/infoFil.css">
+	<link rel="stylesheet" href="styles/requisites.css">
+
+	<script src="scripts/ddmenu.js"></script>
+	<script src="scripts/loadFilter.js"></script>
+	<script src="scripts/showInfo.js"></script>
+	<script src="scripts/formDoc.js"></script>
+	<script src="scripts/miniHelpers.js"></script>
+
+</head> 
+
+	<body>
+		
+		<div id='map'></div>
+		
+		<script src="scripts/map.js">
+		</script>
+
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD97a7K_q2JiQz5h7H0JfapknWKa_5Pqg8&callback=initMap"
+		async defer>
+		</script>
+
+		<div id="floating_panel">
+
+			<table id="mainFloatTab">
+				<tr width = "700"  valign="top">
+					<td width="350">						
+						<form id="form_1">
+							<table id="typeTab">
+								<tr height="30">
+									<td width="150">
+										<font size="5">
+											Тип техники:
+										</font>
+									</td>
+			
+									<td width="100">
+										<select id="first">
+											<option value="index">
+													Сделайте выбор
+											</option>
+										</select>
+									</td>
+								</tr>
+							</table>
+						</form>
+
+						<form id="removable">
+							<div id="remImg">
+								<img src="images/findtec.png" width = "348" border="1">
+							</div>
+						</form>
+					</td>
+
+					<td>
+						<form id="removablePanel">
+							<div id="requisites">
+							</div>
+						</form>
+					</td>
+
+				</tr>			
+			</table>
+		</div>
+
+		<script src="scripts/first.js">
+		</script>
+
+	</body>
+</html>
