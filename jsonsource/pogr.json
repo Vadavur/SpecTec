@@ -1,0 +1,132 @@
+﻿[
+	{
+		"lat": "59.719967",
+		"lng": "30.523740",
+		"inn": "1212355890",
+		"entyShortName": "ИП \"Федор Семенович Ястреб\"",
+		"phone": "8(900)0000001",
+		"mail": "somemail1@somebox.ru",
+		"vendorcode": "H634AA78RUS",
+		"driverName": "Федуард",
+		"rate": "4.14",
+		"mark": "Avisha",
+		"type": "20c15.5",
+		"year": "2000",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "20"
+				},
+
+				{
+					"name" : "Объем_ковша_(м3)",
+					"value" : "15"
+				}
+			]
+	},
+	{
+		"lat": "59.159967",
+		"lng": "30.283740",
+		"inn": "1239999890",
+		"entyShortName": "ООО \"ТяжМаш\"",
+		"phone": "8(900)0000010",
+		"mail": "somemail2@somebox.ru",
+		"vendorcode": "C256EA78RUS",
+		"driverName": "Иван",
+		"rate": "4.01",
+		"mark": "AVVVV",
+		"type": "15c8.5",
+		"year": "2011",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "20"
+				},
+
+				{
+					"name" : "Объем_ковша_(м3)",
+					"value" : "13"
+				}
+			]
+	},
+	{
+		"lat": "59.459967",
+		"lng": "30.503740",
+		"inn": "1123457890",
+		"entyShortName": "ИП \"Сидоров Иван Петрович\"",
+		"phone": "8(900)0000100",
+		"mail": "somemail3@somebox.ru",
+		"vendorcode": "C724BH78RUS",
+		"driverName": "Иван",
+		"rate": "4.98",
+		"mark": "Vyso",
+		"type": "10c7",
+		"year": "1974",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "14"
+				},
+
+				{
+					"name" : "Объем_ковша_(м3)",
+					"value" : "13"
+				}
+			]
+	},
+	{
+		"lat": "59.635967",
+		"lng": "30.713740",
+		"inn": "1234511110",
+		"entyShortName": "ООО \"Винни\"",
+		"phone": "8(900)0001000",
+		"mail": "somemail4@somebox.ru",
+		"vendorcode": "C724KA78RUS",
+		"driverName": "Константин" ,
+		"rate": "4.12",
+		"mark": "AVyO",
+		"type": "18с14",
+		"year": "1995",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "12"
+				},
+
+				{
+					"name" : "Объем_ковша_(м3)",
+					"value" : "9"
+				}
+			]
+	},
+	{
+		"lat": "59.819967",
+		"lng": "30.903740",
+		"inn": "1123237890",
+		"entyShortName": "ИП \"Павел Романович Коробов\"",
+		"phone": "8(900)0010000",
+		"mail": "somemail5@somebox.ru",
+		"vendorcode": "C744CT78RUS",
+		"driverName": "Роман",
+		"rate": "3.91",
+		"mark": "Vydra",
+		"type": "6с4",
+		"year": "2017",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "10"
+				},
+
+				{
+					"name" : "Объем_ковша_(м3)",
+					"value" : "7"
+				}
+			]
+	}
+]

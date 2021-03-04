@@ -1,0 +1,106 @@
+﻿[
+	{
+		"lat": "59.959967",
+		"lng": "30.303740",
+		"inn": "1212355890",
+		"entyShortName": "ИП \"Федор Семенович Ястреб\"",
+		"phone": "8(900)0000001",
+		"mail": "somemail1@somebox.ru",
+		"vendorcode": "A111AA78RUS",
+		"driverName": "Николай",
+		"rate": "4.14",
+		"mark": "Puhton",
+		"type": "20c15.5",
+		"year": "2000",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "40"
+				},
+
+				{
+					"name" : "Объем_пухто_(м3)",
+					"value" : "9"
+				}
+			]
+	},
+	{
+		"lat": "59.859967",
+		"lng": "30.183740",
+		"inn": "1239999890",
+		"entyShortName": "ООО \"ТяжМаш\"",
+		"phone": "8(900)0000010",
+		"mail": "somemail2@somebox.ru",
+		"vendorcode": "A222AA78RUS",
+		"driverName": "Артем",
+		"rate": "4.01",
+		"mark": "Puhtak",
+		"type": "15c8.5",
+		"year": "2011",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "12"
+				},
+
+				{
+					"name" : "Объем_пухто_(м3)",
+					"value" : "9"
+				}
+			]
+	},
+	{
+		"lat": "59.759967",
+		"lng": "30.903740",
+		"inn": "1123457890",
+		"entyShortName": "ИП \"Сидоров Иван Петрович\"",
+		"phone": "8(900)0000100",
+		"mail": "somemail3@somebox.ru",
+		"vendorcode": "A555BB78RUS",
+		"driverName": "Леонид",
+		"rate": "4.98",
+		"mark": "Puhtir",
+		"type": "10c7",
+		"year": "1974",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "40"
+				},
+
+				{
+					"name" : "Объем_пухто_(м3)",
+					"value" : "20"
+				}
+			]
+	},
+	{
+		"lat": "59.835967",
+		"lng": "30.713740",
+		"inn": "1234511110",
+		"entyShortName": "ООО \"Винни\"",
+		"phone": "8(900)0001000",
+		"mail": "somemail4@somebox.ru",
+		"vendorcode": "A781XA78RUS",
+		"driverName": "Виталий",
+		"rate": "4.12",
+		"mark": "Puh",
+		"type": "18с14",
+		"year": "1995",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "14"
+				},
+
+				{
+					"name" : "Объем_пухто_(м3)",
+					"value" : "8"
+				}
+			]
+	}
+]

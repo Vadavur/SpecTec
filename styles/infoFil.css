@@ -1,0 +1,117 @@
+#tableImg {
+	background-color: #000;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 2px solid #ccc;
+	width: 350px;
+}
+
+#tableFil {
+	background-color: #eff;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 2px solid #ccc;
+	width: 350px;
+}
+
+#tableTec {
+	background-color: #eff;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 2px solid #ccc;
+	width: 350px;
+}
+
+#tableMod {
+	background-color: #eff;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 2px solid #ccc;
+	width: 350px;
+}
+
+#tableEnt {
+	background-color: #eff;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 2px solid #ccc;
+	width: 350px;
+}
+
+#tableSend {
+	background-color: #eff;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 2px solid #ccc;
+	width: 350px;
+}
+
+.tableFilClassL {
+	background: white;
+	width: 300px;
+	font-size: 8px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+	display: none;
+}
+
+.tableFilClassR {
+	background: white;
+	width: 300px;
+	font-size: 8px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+	display: none;
+	text-align: right;
+}
+
+.tableTecClass {
+	background-color: #ccc;
+	font-size: 8px;
+	width: 350px;
+	height: 30px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+	display: none;
+}
+
+.tableTecClassL {
+	background-color: #ccc;
+	font-size: 8px;
+	width: 290px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+	display: none;
+}
+
+.tableTecClassR {
+	background-color: white;
+	text-align: 'right';
+	font-size: 8px;
+	width: 60px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+}
+
+.tableModClass {
+	background-color: #ccc;
+	font-size: 8px;
+	width: 350px;
+	height: 30px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+	display: none;
+}
+
+.tableModClassL {
+	background-color: #ccc;
+	font-size: 8px;
+	width: 200px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+	display: none;
+}
+
+.tableModClassR {
+	background-color: white;
+	text-align: 'right';
+	font-size: 8px;
+	width: 150px;
+	font-family: 'Roboto','sans-serif','Arial';
+	border: 5px solid #ccc;
+}
+

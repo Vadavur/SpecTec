@@ -1,0 +1,80 @@
+﻿[
+	{
+		"lat": "59.739967",
+		"lng": "30.513740",
+		"inn": "1212355890",
+		"entyShortName": "ИП \"Федор Семенович Ястреб\"",
+		"phone": "8(900)0000001",
+		"mail": "somemail1@somebox.ru",
+		"vendorcode": "C200MA78RUS",
+		"driverName": "Федор",
+		"rate": "4.14",
+		"mark": "Avisha",
+		"type": "20c15.5",
+		"year": "2000",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "8.5"
+				},
+
+				{
+					"name" : "Высота_подъема_(м)",
+					"value" : "20"
+				}
+			]
+	},
+	{
+		"lat": "59.699967",
+		"lng": "30.283740",
+		"inn": "1239999890",
+		"entyShortName": "ООО \"ТяжМаш\"",
+		"phone": "8(900)0000010",
+		"mail": "somemail2@somebox.ru",
+		"vendorcode": "M231MM78RUS",
+		"driverName": "Петр",
+		"rate": "4.01",
+		"mark": "AVVVV",
+		"type": "15c8.5",
+		"year": "2011",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "8.5"
+				},
+
+				{
+					"name" : "Высота_подъема_(м)",
+					"value" : "15"
+				}
+			]
+	},
+	{
+		"lat": "59.459967",
+		"lng": "30.503740",
+		"inn": "1123457890",
+		"entyShortName": "ИП \"Сидоров Иван Петрович\"",
+		"phone": "8(900)0000100",
+		"mail": "somemail3@somebox.ru",
+		"vendorcode": "P742PP78RUS",
+		"driverName": "Василий",
+		"rate": "4.98",
+		"mark": "Vyso",
+		"type": "10c7",
+		"year": "1974",
+		"attr":
+			[
+				{
+					"name" : "Грузоподъемность_(Т)",
+					"value" : "7.0"
+				},
+
+				{
+					"name" : "Высота_подъема_(м)",
+					"value" : "15"
+				}
+			]
+	}
+]

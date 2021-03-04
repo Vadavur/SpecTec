@@ -1,0 +1,71 @@
+.dropdown-menu ul {
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  list-style: none;
+  display: none;
+}
+
+.dropdown-menu ul li {
+  background: #eaecf0;
+  height: 30px;
+
+}
+
+.dropdown-menu ul li:hover {
+  background: #eaecf0;
+}
+
+.dropdown-menu ul li a {
+  display: block;
+  width: 100%;
+  padding: 0px 0px;
+  text-decoration: none;
+  font-size: 27px;
+  color: #000;
+}
+
+.dropdown-menu ul li {
+  background: url(../images/ddcell.png) no-repeat 0px center;
+  background-size: 100% 100%;
+}
+
+
+.dropdown-menu .title {
+  display: inline-block;
+  width: 90%;
+  height: 45px;
+  padding: 0px 0px  0px 0px;
+  font-size: 27px;
+  line-height: 45px;
+  cursor: pointer;
+  background: #eaecf0 url(../images/ddcell.png) no-repeat 0px center;
+  background-size: 100% 100%;
+}
+
+.dropdown-menu .title::after {
+  content: "";
+  float: right;
+  display: block;
+  background: url(../images/ard.png) no-repeat 0px center;
+  background-size: 100% 100%;
+  width: 45px;
+  height: 45px;
+  margin-right: 0px;
+}
+
+.dropdown-menu.open .title {
+  background: #eaecf0 url(../images/ddcell.png) no-repeat 0px center;
+  background-size: 100% 100%;
+  color: #000;
+  border-bottom: 15px solid #eaecf0;
+}
+
+.dropdown-menu.open .title::after {
+  background: url(../images/aru.png) no-repeat 0px center;
+  background-size: 100% 100%;
+}
+
+.dropdown-menu.open ul {
+  display: block;
+}

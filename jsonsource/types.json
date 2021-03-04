@@ -1,0 +1,18 @@
+[
+	{
+		"type": "avysh",
+		"menu": "Автовышка"
+	},
+	{
+		"type": "manipul",
+		"menu": "Манипулятор"	
+	},
+	{
+		"type": "pogr",
+		"menu": "Погрузчик"
+	},
+	{
+		"type": "puhta",
+		"menu": "Пухта"
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{		
+		"idMain" : "inn",
+		"name" : "ИНН",
+		"value" : ""
+	},
+	{		
+		"idMain" : "kpp",
+		"name" : "КПП",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "entyWholeName",
+		"name" : "Полное наименование организации",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "entyShortName",
+		"name" : "Сокращенное наименование организации",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "entyAdress",
+		"name" : "Юридический адрес",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "realAdress",
+		"name" : "Фактический адрес",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "phone",
+		"name" : "Тел./факс",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "mail",
+		"name" : "E-mail",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "rsAccount",
+		"name" : "р/с",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "ksAccount",
+		"name" : "к/с",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "bik",
+		"name" : "БИК",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "ogrn",
+		"name" : "ОГРН",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "okpo",
+		"name" : "ОКПО",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "oktmo",
+		"name" : "ОКТМО",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "chiefManager",
+		"name" : "Генеральный директор",
+		"value" : ""
+	},	
+	{		
+		"idMain" : "chiefAccountant",
+		"name" : "Главный бухгалтер",
+		"value" : ""
+	}
+]
